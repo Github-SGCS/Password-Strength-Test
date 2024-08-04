@@ -22,9 +22,8 @@ When a user inputs a password, the script evaluates it against the above criteri
 - <b>Python</b>
 
 
-<h2> Script Screen shot </h2>
 <p align="center">
-Launch the utility: <br/>
+The Script <br/>
 <img src="https://github.com/user-attachments/assets/480420cc-2600-4dc4-9ab0-d22fbe584ab5">"
 <br />
 
