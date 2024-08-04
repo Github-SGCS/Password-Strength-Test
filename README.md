@@ -22,10 +22,10 @@ When a user inputs a password, the script evaluates it against the above criteri
 - <b>Python</b>
 
 
-<h2>Program walk-through:</h2>
+<h2> Script Screen shot </h2>
 <p align="center">
 Launch the utility: <br/>
-<img src="https://github.com/user-attachments/assets/480420cc-2600-4dc4-9ab0-d22fbe584ab5">" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/480420cc-2600-4dc4-9ab0-d22fbe584ab5">"
 <br />
 
 
