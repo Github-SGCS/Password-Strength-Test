@@ -7,9 +7,13 @@ The Password Strength Checker is a Python script designed to evaluate the robust
 
 <h2> Features </h2>
 - <b>Minimum Length Requirement: Ensures the password is at least 8 characters long.<b>
+ <br />
 - <b>Uppercase Letter Check: Verifies the inclusion of at least one uppercase letter.<b> 
+ <br />
 - <b>Lowercase Letter Check: Verifies the inclusion of at least one lowercase letter.<b>
+ <br />
 - <b>Digit Check: Ensures the password contains at least one numerical digit.<b>
+ <br />
 - <b>Special Character Check: Confirms the presence of at least one special character from the set !@#$%^&*(),.?":{}|<>. <b>
 
 
