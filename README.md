@@ -19,7 +19,7 @@ When a user inputs a password, the script evaluates it against the above criteri
 
 
 <h2>Environments Used </h2>
-- <b>Python</b>
+<b>Python</b>
 
 <h2> The Script</h2>
 <p align="center">
